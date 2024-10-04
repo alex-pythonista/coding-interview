@@ -10,3 +10,4 @@ def ispalindrome(input):
 print(ispalindrome("racecar"))
 print(ispalindrome("kayak"))
 print(ispalindrome("hello"))
+print(ispalindrome(""))
